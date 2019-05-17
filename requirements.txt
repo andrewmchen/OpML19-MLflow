@@ -1,0 +1,5 @@
+mlflow==0.9.0.1
+pyspark==2.4.3
+pyarrow
+xgboost==0.71
+
